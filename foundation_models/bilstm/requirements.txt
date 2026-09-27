@@ -1,0 +1,3 @@
+# Tested environment for the BiLSTM reference
+torch==2.4.1
+numpy==1.24.4

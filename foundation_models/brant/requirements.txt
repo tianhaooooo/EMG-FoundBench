@@ -1,0 +1,5 @@
+# Tested environment for the BRANT code
+# Official weights (time_encoder.pt, channel_encoder.pt): see https://github.com/yzz673/Brant;
+# set BRANT_CKPT_DIR to the folder that contains them.
+torch==2.5.1
+numpy==2.4.6

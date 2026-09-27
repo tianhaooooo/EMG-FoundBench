@@ -1,0 +1,6 @@
+# Tested environment for the TimesFM-2.5-200M code (TimesFM 2.5 torch implementation)
+torch==2.14.0
+numpy==2.4.6
+timesfm==3.0.2
+huggingface_hub==1.31.0
+safetensors==0.8.0

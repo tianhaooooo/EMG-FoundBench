@@ -1,0 +1,4 @@
+The files in this folder that are marked as copies of the official Brant release
+(brant_encoders.py) are distributed under the Apache License 2.0, as declared by the
+official release (https://huggingface.co/Daoze/Brant, https://github.com/yzz673/Brant).
+The pretrained weights are released by the Brant authors for medical or research purposes only.

@@ -1,0 +1,7 @@
+# Tested environment for the Lag-Llama code
+# Upstream model code (not on PyPI): clone https://github.com/time-series-foundation-models/lag-llama
+# at commit df7531a83a19b3c6a0222d703ca9bf59ef7a6ab9 and set LAG_LLAMA_SRC to the checkout root.
+torch==2.7.1
+gluonts[torch]==0.14.4
+numpy==1.26.4
+huggingface_hub==1.12.0

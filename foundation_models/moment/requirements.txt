@@ -1,0 +1,6 @@
+# Tested environment for the MOMENT-S / MOMENT-B code
+torch==2.0.1
+transformers==4.33.3
+numpy==1.25.2
+momentfm==0.1.4
+huggingface_hub==0.24.0
